@@ -1,0 +1,5 @@
+1.https://aistudio.baidu.com/aistudio/competition
+
+2.https://modelscope.cn/home（阿里魔塔社区）
+
+3.huggingface
